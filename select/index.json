@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ヒトリセカイ",
+  "base_artist": "10-FEET",
+  "createdAt": "2026-03-27T09:44:05.643923Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ヒトリセカイ",
+      "artist": "10-FEET",
+      "has_synced": false,
+      "path": "select/01_ヒトリセカイ_10-FEET.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒトリセカイ",
+      "artist": "10-FEET",
+      "has_synced": false,
+      "path": "select/pl_01_ヒトリセカイ_10-FEET.txt"
+    }
+  ]
+}
